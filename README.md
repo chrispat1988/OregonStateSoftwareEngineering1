@@ -46,3 +46,8 @@ Once this happens, the server then sends back the request to the user.
     print('From client:', message_prompt3)
 
 And thus the timer will then activate for the client to use.
+
+
+# UML Sequence Diagram
+
+![Chris Patton Sequence Diagram](https://user-images.githubusercontent.com/86307096/218897215-1ea364cb-b0c5-4d11-8749-be2e24d393de.jpg)
